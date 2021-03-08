@@ -11,7 +11,7 @@ int main() {
    
    y = cos(x);
    
-   printf("Upravo smo ti prodali maglu, a y je %f.", y);
+   printf("Upravo smo ti prodali maglu, a y=%f.", y);
    
    return 0;
 }
